@@ -1,6 +1,6 @@
 # SETI-signal-classification
 
-Using ResNet50 and transfer learning (i.e using the weights from a pretrained model in ImageNet) and updating all weights, this model achieved an accuracy of XXXX. 
+Using ResNet50 and transfer learning (i.e using the weights from a pretrained model in ImageNet) and updating all weights, this model achieved an accuracy of 86.57%. 
 
 ## Data
 
@@ -12,7 +12,7 @@ High frequency resolution (~3 Hz frequency resolution, ~18 second sample time)
 High time resolution (~366 kHz frequency resolution, ~349 microsecond sample time)
 Medium resolution (~3 kHz frequency resolution, ~1 second sample time)
 
-The files are supplied as .png and are 512x384 which in the model is resized to 196x196 for application to ResNet50.
+The files are supplied as .png and are 512x384 which in image augmentation are resized to 196x196 for application to ResNet50.
 
 ![Train_data](https://user-images.githubusercontent.com/49917684/161129509-b188e3a8-1f21-48b1-a5eb-2cdac2f18229.png)
 
@@ -20,6 +20,8 @@ Available at: https://www.kaggle.com/datasets/tentotheminus9/seti-data
 
 ## Model Performance
 
-
+![performance_plt](https://user-images.githubusercontent.com/49917684/161135828-586ac959-c2e9-4541-aab2-643dec4f44b1.png)
 
 ## Model Structure
+
+![model_pic](https://user-images.githubusercontent.com/49917684/161135900-7573b4fd-c3a2-43f0-9e90-f3c1b3fba12d.png)
