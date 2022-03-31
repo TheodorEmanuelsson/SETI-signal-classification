@@ -14,13 +14,14 @@ Medium resolution (~3 kHz frequency resolution, ~1 second sample time)
 
 The files are supplied as .png and are 512x384 which in image augmentation are resized to 196x196 for application to ResNet50.
 
-![Train_data](https://user-images.githubusercontent.com/49917684/161129509-b188e3a8-1f21-48b1-a5eb-2cdac2f18229.png)
+![Screenshot from 2022-03-31 21-50-21](https://user-images.githubusercontent.com/49917684/161137460-505ae42a-a9e2-4b41-9f55-9265a4115ce0.png)
 
 Available at: https://www.kaggle.com/datasets/tentotheminus9/seti-data
 
 ## Model Performance
 
-![performance_plt](https://user-images.githubusercontent.com/49917684/161135828-586ac959-c2e9-4541-aab2-643dec4f44b1.png)
+![Screenshot from 2022-03-31 21-49-13](https://user-images.githubusercontent.com/49917684/161137438-af2f02cc-90c8-4c44-8426-0401a0569eda.png)
+
 
 ## Model Structure
 
