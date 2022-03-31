@@ -23,6 +23,6 @@ Available at: https://www.kaggle.com/datasets/tentotheminus9/seti-data
 ![Screenshot from 2022-03-31 21-49-13](https://user-images.githubusercontent.com/49917684/161137438-af2f02cc-90c8-4c44-8426-0401a0569eda.png)
 
 
-## Model Structure
+## Model Structure (ResNet50)
 
 ![model_pic](https://user-images.githubusercontent.com/49917684/161135900-7573b4fd-c3a2-43f0-9e90-f3c1b3fba12d.png)
